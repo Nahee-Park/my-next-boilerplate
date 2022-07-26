@@ -1,7 +1,9 @@
 {
-  "name": "src",
-  "version": "0.1.0",
-  "private": true,
+  "name": "my-next-boilerplate",
+  "version": "1.0.0",
+  "description": "My Nextjs boilerplate",
+  "author": "Nahee-Park",
+  "license": "ISC",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
